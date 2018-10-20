@@ -2,7 +2,6 @@
   "name": "restapitutorial",
   "version": "1.0.0",
   "description": "tutorial on how to create rest api",
-  "main": "index.js",
   "start": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
